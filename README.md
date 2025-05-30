@@ -3,8 +3,6 @@
 <br/>
 Разработка велась с использованием последней стабильной версии Flutter на момент проекта..</p>
 
-![Worldskills 2025](https://github.com/m9m9ra/flutter_championship_2025/blob/main/publication/preview.png)
-
 ## Getting Started
 
 ```
